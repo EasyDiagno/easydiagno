@@ -1,4 +1,4 @@
-# easydiagno
+# EasyDiagno
 
 A new Flutter project.
 
